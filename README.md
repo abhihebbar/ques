@@ -21,3 +21,10 @@ printf("a: %d, b: %d", a, b)
 3. Write a program to find factorial of a number between 1-15 with complexity of 1
 
 ### Medium
+
+
+
+### Hard
+
+1. Find a square root of a nunber "n" without using the math library function. "n" is a non zero real number.
+2. Write a program that prints itself (This was asked to one of my classmates during our placements)
